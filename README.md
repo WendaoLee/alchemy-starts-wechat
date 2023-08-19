@@ -4,6 +4,10 @@
 扫码即可访问小程序：
 ![](./qrcode.jpg)
 
+如果您愿意支持该项目，可以前往爱发电https://afdian.net/a/leewendao 通过自选金额打赏或承包一个月或多个月的服务器开销费用哦🥰🥰🥰
+
+![sponsor](./afdian.jpg)
+
 ## 1. 反馈
 
 提交Issue说明相关问题即可。
